@@ -1,5 +1,5 @@
 # Deep_Learning_Neural_Networks_Cifar10
-Extended Deep Learning Solutions for providing solutions to the Multi-Class Classification Problem of the Cifar-10 Dataset.
+Extended Deep Learning Solutions  to the Multi-Class Classification Problem of the Cifar-10 Dataset.
 
 Welcome to the **CIFAR-10 Multi-Class Classification** repository! This repository contains an extensive exploration of various Deep Learning (DL) and Machine Learning (ML) approaches to solve the CIFAR-10 image classification problem. The CIFAR-10 dataset consists of 60,000 32x32 color images in 10 classes, with 6,000 images per class.
 
